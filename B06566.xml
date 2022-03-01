@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The experiences of God's gracious dealing with Mrs. Elizabeth White, late wife of Mr. Thomas White of Coldecot in the county of Bucks. / As they were written under her own hand, and found in her closet after her decease, she dying in child-bed, Decemb. 5. 1669.</title>
+            <author>White, Elizabeth, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06566</idno>
+            <idno type="STC">Wing W1763</idno>
+            <idno type="STC">ESTC R186485</idno>
+            <idno type="EEBO-CITATION">52529095</idno>
+            <idno type="OCLC">ocm 52529095</idno>
+            <idno type="VID">179242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179242)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The experiences of God's gracious dealing with Mrs. Elizabeth White, late wife of Mr. Thomas White of Coldecot in the county of Bucks. / As they were written under her own hand, and found in her closet after her decease, she dying in child-bed, Decemb. 5. 1669.</title>
+                  <author>White, Elizabeth, d. 1669.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Sanders, One of His Majesties Printers,</publisher>
+                  <pubPlace>Glasgow :</pubPlace>
+                  <date>Anno Dom. 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text printed in black letter.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>White, Elizabeth, d. 1669.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179242:1"/>
+            <pb facs="tcp:179242:1" rendition="simple:additions"/>
+            <p>THE EXPERIENCES OF <hi>God's Gracious Dealing</hi> WITH Mrs. <hi>Elizabeth White,</hi> Late Wife of Mr. <hi>Thomas White</hi> of <hi>Coldecot</hi> in the County of <hi>Bucks.</hi> As they were written under her own hand, and found in her Cloſet after her deceaſe, ſhe dying in Child-bed, <hi>Decemb.</hi> 5. 1669.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 66.16.</hi>
+               </bibl> Come and hear all ye that fear God, and I will declare what he hath done for my Soul.</q>
+            <p>
+               <hi>GLASGOW,</hi> Printed by <hi>Robert Sanders,</hi> One of His <hi>Majesties</hi> Printers, <hi>Anno Dom.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179242:2"/>
+            <pb n="3" facs="tcp:179242:2"/>
+            <head>The Experiences of Gods Gracious dealing with Mrs. Elizabeth White.</head>
+            <p>FRom my Child-hood the Lord hath inclined my heart to ſeek after the beſt things, and my Fathers chiefeſt care was, to bring me up in the nurture and admonition of the Lord: my nature being ſome<g ref="char:EOLhyphen"/>what more mild than the reſt of my Siſters, I was ready to think my ſelf ſome body, and with the proud Phariſee, to thank God that I was not as others, not conſidering that I was but like a Wolf chained up, which keeps its nature ſtill, as I by the goodneſs of God have ſeen, ſince the Lord was pleaſed to lay his eye<g ref="char:EOLhyphen"/>ſalve upon me. I was a great lover of Hiſtories, and other fooliſh Books, and did often ſpend my ſleeping-time in reading of them, and ſome<g ref="char:EOLhyphen"/>times I ſhould think I did not do well in ſo doing, but I was ſo bewitched by them, that I could not forbear; &amp; hearing of a friend of mine, which was eſteemed a very holy woman, that did delight in Hiſtories, I then concluded it was no ſin, and gave my ſelf wholly then to this kind of folly, when I had any ſpare time, for two or three years. I had ſometimes ſlight thoughts of Repentance, but was loth to ſet about it, and ſo I ſhould put the Lord off from time to time with delays, thinking ſtill I ſhould find a fitter time then the preſent. I remember
+<pb n="4" facs="tcp:179242:3"/> about a month before I was married, my Father would have me receive the Sacrament of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lords Supper, and I was very willing to it until I conſidered what was requſite to be in thoſe which did partake thereof, and then I began to doubt that I had not thoſe things whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were requiſite wrought in me, as Knowledge, Faith, Love, Repentance, &amp;c. and then this Scripture came into my mind, He that doubt<g ref="char:EOLhyphen"/>eth is damned if he eat, for whatſoever is not of faith is ſin: when I had conſidered thoſe things I was filled with ſorrow, and could not tell what to do, I was loth to diſobey my Father, and more loth to eat and drink my own dam<g ref="char:EOLhyphen"/>nation; in this perplexity I ſet my ſelf to ſeek the Lord for his grace, being at that time ſomewhat ſenſible of the want of it; when I had thus done, I began to be comforted, verily thinking, that now I had repented, and could believe in Chriſt Ieſus: and having ſome notional knowledge of things, I was indiffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ently well ſatisfied, thinking that when I wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> married, I ſhould have more leiſure to ſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God; and then going to the Miniſter of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh, to be examined before I was admitted and finding my ſelf able to anſwer him, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thought all was well with me then, and ſo un<g ref="char:EOLunhyphen"/>worthy I went to the Lords Table, not queſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>oning but that I was in as good a condition a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any of the reſt which did receive. But bleſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ever be the Lord which broke my falſe con<g ref="char:EOLunhyphen"/>fidence, and ſwept away my refuge of Lyes
+<pb n="5" facs="tcp:179242:3"/> which I then truſted in, and ſhewed me my ſad condition I was in by nature and practiſe, more clearly than ever before; and this was about a quarter of a year after I was married, in the year, 1657. the Miniſter being upon this ſubject, Prov. 1.23. Turn ye at my reproof, &amp;c. being upon the uſe of trial, whether indeed we had turned to God or no? he bid us examine our ſelves by ſome marks which he then gave, and it was at this time that God did begin to mani<g ref="char:EOLhyphen"/>feſt his love to me, as I truſt, in my effectual vocation; here the Lord was pleaſed to open my heart, as he did the heart of Lydia, ſo that I attended to the things that were ſpoken, ſo that I perceived my heart was not right in the ſight of God, and that my hope was but like that of the Hypocrite which periſheth; when I came home I beſought the Lord to turn me if I were not yet turned to him, but yet I had not that thorow ſenſe of ſin, as I had afterwards: About three weeks after, the Miniſter coming to our houſe, my Husband and I was ſpeak<g ref="char:EOLhyphen"/>ing that we would deſire him to pray with us in our Chamber, but that time he could not ſtay, the next day he came and asked for me, telling me that my Husband told him that I would ſpeak with him. O how was I ſurprized<g ref="char:punc">▪</g> I could not tell what to ſay upon the ſudden, I was ſo hurried in my thoughts. O how loth was I to acquaint him with my ſad ſtate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I was aſhamed to tell him that I was yet a ſtrang<g ref="char:EOLhyphen"/>er to God and all goodneſs, till it was forced
+<pb n="6" facs="tcp:179242:4"/> from me, which when he heard he did not go about to comfort me, but he asked me if ever I was convicted before? and I told him yes; and he repeated the firſt verſ. of the 29. Chap. of the Proverbs, He that being often reproved, hardeneth his neck, ſhal ſuddenly be deſtroyed, and that without remedy: when I heard this I was wonderfully troubled; then there came many ſins to my remembrance, which I had taken no notice of before, counting them ſmall ſins; now the time which was ſpent in reading Hiſtories I remembred with bitter grief, and I thought that there was no mercy for me, but he perſwaded me there was hope of mercy for ſuch as I, and that the Lord waited to be graci<g ref="char:EOLhyphen"/>ous to poore ſinners, and then I was a little ſatisfied for the preſent; but then I was trou<g ref="char:EOLhyphen"/>bled with blaſphemous thoughts, which were very grievous to me, I thought I had a heart worſe than the Devil, and wondered that I was not conſumed in ſome ſtrange manner; when I have ſeen a Spider, which of all things is moſt loathſome to me, I have been ready to wiſh my ſelf ſuch a one, eſteeming of it to be in a far happier condition than I was; I was afraid to be in the dark leſt I ſhould met the devil; I doubted whether I was elected, I had read, that I was not of him that willeth, nor him that runneth, but of God that ſheweth mercy: Then I thought if I were not elected, it was to no purpoſe to ſtrive, for what God hath decreed muſt be, but yet I was unwilling
+<pb n="7" facs="tcp:179242:4"/> to periſh, I could not be ſo ſatisfied, although I had but little hope to obtain mercy, yet I could not but ask it, I was alſo very frequent in hearing the Word preached and read, not daring to let ſlip an opportunity, but not with<g ref="char:EOLhyphen"/>out many tears, leſt it ſhould increaſe my con<g ref="char:EOLhyphen"/>demnation: in this condition I remained a great while, but not without ſome ſecret ſup<g ref="char:EOLhyphen"/>ports from the Lord, ſometimes by a word caſt in upon my ſpirit, ſometimes I was refreſhed I could not tell how, but I ſhould be ready to think this was a deluſion; I remember the Scriptures were theſe, Iſa. 50.10. Who is among you that feareth the Lord that obeys the voice of his Servant, that walks in darkneſs, and hath no light, let him truſt in the name of the Lord, and ſtay upon his God. Iohn 15.16. Ye have not choſen me, but I have choſen you and ordained you that ye ſhould go and bring forth much fruit, and that your fruit ſhould remain, &amp;c. Lam. 3.25. The Lord is good unto the ſoul that waits for him, and to them that ſeek him; It is good that a man ſhould both hope and quietly wait for the Salvation of the Lord, &amp;c. Theſe words did ſupport me very much, therefore, I write them out and laid them in my Cloſet, that they might ſtill be in my eye, that I might when I looked upon them be in<g ref="char:EOLhyphen"/>couraged to hope in and wait upon the Lord; but theſe comforts were but tranſient, but yet whiles they laſted they were very ſweet ſupports, but when gone I fell to doubting, thinking all
+<pb n="8" facs="tcp:179242:5"/> was deluſions, and thus I diſhonoured God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my unbelief; I doubted much of my ſincerity often ſaying I was an hypocrite, but if at an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time I was asked in what I was one, I could not tell; but had this Scripture very often in my mind, There is a way which ſeemeth right unto a man, but the end thereof is death: And ſo I thought I was but ſeemingly right, and therefore muſt needs periſh: and in this condi<g ref="char:EOLhyphen"/>tion I continued a long time, but I heard that a hypocrite ſeldome or never doubted his condi<g ref="char:EOLhyphen"/>tion<g ref="char:punc">▪</g> and that it was a ſign of ſincerity, to deſire a ſincere heart; and this I durſt not deny, knowing that I did deſire it rather than the whole world.</p>
+            <p>Thus being better ſatisfied, I reſolved to ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about my duty, but all this while I did not ſee ſuch a high price upon the Lord Ieſus as I ſhould, but ſtill I thought that I muſt do ſome<g ref="char:EOLunhyphen"/>thing to merit ſalvation, not daring to venture my ſoul with all its concernments upon Chriſt, therefore I ſhould tye my ſelf to pray ſix times a day, and then I ſhould be ſatisfied, and thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all was well with me then: but if I at any tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> failed of my number, then I was dis-ſatisfied and ſo in other duties; ſo that my comforts did not flow from the blood and righteouſneſs of Ieſus, but from my own duties; but bleſſed be the Lord, who likewiſe ſhook this foundation, even becauſe he had a favour to me: for being in diſcourſe with a friend, he deſired me to read Shephards ſincere Convert; which I did; and
+<pb n="9" facs="tcp:179242:5"/> here did I ſee as in a glaſs my folly, for there were ſigns given whereby I might try my ſelf, whether I did reſt in duties. One I remember was this, If I never ſaw I reſted in Duties, then it was a ſure ſign that I then did; another was this, If I prized the bare performance of duties ſo, as to think when I had prayed with ſome life, that I had done very well; and again, If I ſaw but little of my vile heart by Duties, then it was a ſign I reſted in them, and that I was yet in the way to Hell, though in the clean<g ref="char:EOLhyphen"/>lieſt way, and ſhould certainly periſh if I reſted here. Now this I plainly ſaw was my condi<g ref="char:EOLhyphen"/>tion, but how to get out of it I knew not, for now I was in a worſe condition than at the beginning, finding it abundantly more hard to deny righteous ſelf than ſinful ſelf: I thought it wonderful ſtrange, that I muſt be ſaved by the righteouſneſs of another, if ever I were ſaved; O this my proud heart was unwilling to yeeld to, and yet I was very deſirous of ſal<g ref="char:EOLhyphen"/>vation: But when the Lord had led me into my own heart, and ſhewed me the vileneſs of that more, and that if the Lord ſhould leave me to my ſelf, I ſhould commit all kind of ſin, and that with greedines, ſuch was the vileneſs of my nature, and that if it were poſſible I ſhould now live holily, yet I could not ſatisfie the juſtice of God for what was paſt, therefore I reſolved to caſt my ſelf upon Chriſt Ieſus that ſure foun<g ref="char:EOLhyphen"/>dation, which God had laid and not man, and if I periſhed, to periſh here, but much oppoſiti<g ref="char:EOLhyphen"/>on
+<pb n="10" facs="tcp:179242:6"/> did I meet with from Satan and my own heart, before I could really do it, I could ſeal to the truth of that ſcripture, Eph. 1.19. That God did put forth his mighty power, when a ſoul was made to believe: but yet I was not at quiet, but had many fears and doubts that all was falſe, becauſe I had been ſo often decei<g ref="char:EOLhyphen"/>ved, and now I began to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee mine own vileneſs more than ever and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound my heart ran out to the Lord Ieſus in love, but doubted very much of his love to me, yet ſometimes I ſhould have ſome perſwaſions of my intereſt in Chriſt, and that his love was towards me; and whilſt this perſwaſion laſted I ſhould be very comfortable &amp; be ready to think I ſhould never be moved, as David did: but when God hid his face, I was troubled and fell to doubting all again, not having learned that heavenly skill of living by Faith, but yet I did not wholly caſt off my confidence, but had ſome pin hole of hope in the worſt condition. I remember the conſideration of this ſcripture, Iohn 3.8. He that is born of God doth not commit ſin, filled me with many fears knowing how apt I was to commit ſin, notwithſtanding my ſtriving againſt it: but a little while after I was ſatisfied, underſtand<g ref="char:EOLhyphen"/>ing the place better, that it was not meant of ſins of infirmity, but of making ſins ones trade, &amp;c. and this was I confident I did not, but rather trembled at the thoughts of it; but when this was over, Satan and my own unbelieving heart will ſtill be preſenting ſomething whereby
+<pb n="11" facs="tcp:179242:6"/> to occaſion doubts, ſo that for the ſpace of one year and a half, I had ſcarcely any ſettled peace, now and then a good word thrown in which would revive me for the preſent, but the comfort would be ſoon gone, as Ezek. 36.26. A new heart will I give, and a new ſpirit will I put in you, and I will take away the ſtony heart out of your fleſh, and I will give you a heart of fleſh, and will put my ſpirit within you, and cauſe you to walk in my ſtatutes, &amp;c. This Promiſe I ſhould often plead with God very ſenſibly and with much confidence: another was Iohn 11.25. I am the reſurrection and the life, he that believeth on me, though he were dead yet ſhould he live: And whoſoever liveth and believeth in me ſhall never die. This I remember was very ſweet to me; once when I was in great fear leſt my heart ſhould grow dead, and when I was with Child I was much dejected, having a ſence of my approaching danger, and wanting an aſſurance of my ever<g ref="char:EOLhyphen"/>laſting happineſs; but whilſt I was conſidering of theſe things, I had this Scripture ſet home with abundance of ſweetneſs, Pſalm. 50.15. Call upon me in the day of trouble, and I will deliver thee, and thou ſhalt glorifie me, and in the time of my extremity this word was ſet home upon my heart again, and my good God made me to experience the truth of it in a won<g ref="char:EOLhyphen"/>derful manner, for I had ſpeedy deliverance beyond my expectation, which filled my heart and mouth with praiſes to the Lord; about
+<pb n="12" facs="tcp:179242:7"/> three days after a friend coming to viſit me, I related to her how good the Lord had been unto me, and how ſweetly my heart was eſtabliſhed, but no ſooner was my friend gone, but I was tempted to think my faith was falſe, but I labored what I could to encourage my ſelf in the Lord my God.</p>
+            <p>But as I lay in my bed, I thought I ſaw three men before me, and it was preſently ſug<g ref="char:EOLhyphen"/>geſted to me that theſe were the three perſons in the Trinity; O then I was very much trou<g ref="char:EOLhyphen"/>bled, but I knew I was under a temptation, and therefore cryed to the Lord for help, but was not p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſently delivered from it; but I had this Scripture brought to my mind, No man ſhal ſee my face and live, Exod. 33.20. But not being yet freed, I began to conſider what I had heard and read as means to help againſt ſuch temptations, at laſt I remembred, that Mr. Bolton in his Book of inſtructions for the right comforting of afflicted conſciences, gave this direction, after the party had prayed for help againſt the Tempter, and done what they could in repelling him by the Word of God, that if they were yet followed by Satan, that then they ſhould ſet about ſome honeſt imployment; but now I was in Bed, and knew not what to ſet about for the preſent, at laſt I reſolved to try to ſuckle my Child, which I did, and then lay down again, and found that I was pretty well freed from that temptation, and finding my ſelf much diſtempered in my head I deſired the
+<pb n="13" facs="tcp:179242:7"/> Lord to give me reſt, and went about to com<g ref="char:EOLhyphen"/>poſe my ſelf to ſleep; but as I lay I thought Satan ſtood before me, asking where I could find a promiſe for ſleep, at preſent I could not think of any, but after ſome ſtudy this was brought into my mind, The Lord will give his beloued ſleep; this word comforted me, but yet I could not all that night get any ſleep, but ſtill thought I ſaw Satan laughing at me, becauſe I had no ſleep, and yet truſted in his word; thus all the night I continued weak in body and comfortleſs in mind, ſo that in the morning I expected nothing but death, then beginning to think more ſeriouſly of my change, Satan as I then thought asked me where was my aſſurance of my everlaſting happineſs; at this I was very much troubled, knowing I had not full aſſu<g ref="char:EOLhyphen"/>rance, but yet ſome good hope through the good<g ref="char:EOLhyphen"/>neſs of God I had, therefore my heart made anſwer, it is true I have no aſſurance, but I have caſt my ſelf wholly upon the Lord Chriſt, and in him only is my hope, and here will I reſt, and if I periſh I periſh, but ſure I am ſuch ſhall not periſh, for Chriſt hath promiſed them eternal life. Thus being aſſiſted by the Lord, I vanquiſhed Satan for that time: and being thus at peace, I quickly fell aſleep, and dreamed there was a Ladder ſet upon the earth, whoſe top reached to heaven, and I thought I was to go up y<hi rend="sup">t</hi> Ladder into heaven, &amp; that as faſt as I got up I was pulled down again, which cauſed me to ſhed abundance of tears fearing
+<pb n="14" facs="tcp:179242:8"/> that I ſhould never get up, and I thought ſome<g ref="char:EOLhyphen"/>thing from above drew me by the arms, but I could not ſee what, but at laſt I thought I was in heaven where all tears were wiped from mine eyes, and I was filled with rejoycing, but when I had been there a little while, I thoght I was to go back again to the earth, and this very much troubled me: but then I thought I heard a voice ſaying, it would be but for a little while, and that I ſhould die in Child-bed, and that the night before I dyed I ſhould have full aſſu<g ref="char:EOLhyphen"/>rance; this very much rejoyced me, (and I was very deſirous to know of what child I ſhould dye, but that was denyed me, upon this account, becauſe I ſhould be always prepared, but when I did awake I was filled with unexpreſſible joy, earneſtly longing to be diſſolved and to be with Chriſt which was beſt of all, and yet wil<g ref="char:EOLhyphen"/>ling if the Lord pleaſed to ſuffer any thing which might be inflicted on me. Then I remembred how Satan, when I was about to turn to God, would preſent the ſufferings of Gods people to me, thinking by that means to turn me back again, and how I ſhould be diſcouraged by them but being filled with the joys of Gods Spirit I thought I could ſuffer any thing, not wonder<g ref="char:EOLhyphen"/>ing, as I had done, how the Saints of old could bear up ſo bravely under their ſufferings. But after I began to amend, my joys were not ſo full, as they had been, but I had a more ſetled peace than formerly I had, bleſſed be the Lord; I had many various changes in my ſpirituall
+<pb n="15" facs="tcp:179242:8"/> ſtate but once having a great ſenſe of a hard heart, and being deſirous to have it molified, I was tempted to do ſome great evil, as the only means to break me; and that it might be the readier entertain'd, Satan put it into my heart to conſider the condition of Nathaniel Butler, whoſe heart was unbroken till the com<g ref="char:EOLhyphen"/>miſſion of that horrid ſin of murder, and then this great evil brought him to a ſight and ſenſe of all ſin<g ref="char:punc">▪</g> this temptation was very ſtrong upon me, but yet ſtronger was he that was with me, than he that was againſt me; for at that very inſtant did the Lord caſt into my heart that happy word, Rom. 8.3. Let us do evil that good may come, whoſe damnation is juſt. This word proved a happy means to repel the temp<g ref="char:EOLhyphen"/>tation; but yet this mercy I had forgot, till the Lord revived it upon my heart, almoſt two years after as I was reading the Chapter.</p>
+            <p>And ſince my Child was weaned, I was in ſuch a ſtate of deadneſs and darkneſs, that I thought if I was ever raiſed out of it I ſhould never queſtion my condition again; I was tempted to think that the Scripture was not the word of God? I had let out my affection in a wonderful meaſure to my Child, and yet my Lord forſook me not, but diſpelled my darkneſs, and filled me with rejoycing; O What ſhal I render to him? After this I grew into another damp, and was raiſed again, and I truſt the Lord will keep me notwithſtanding all the miſt which ſhall be raiſed in my heart by ſin and
+<pb n="16" facs="tcp:179242:9"/> Satan, even by his power through faith unto Salvation. Theſe Scriptures revived me <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeveral times; when I was in heavineſs fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want of the preſence of God at the Ordinan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the Lords Supper, Prov. 8.34. Bleſſed ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they that watch daily at my gates, waiting a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the poſts of my door, Mat. 20.15. Is it no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lawfull for me to do what I will with my ow<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> This cheeked me and made me willing to wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at that time; But this is my comfort, God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unchangeable, who I truſt wil carry me throug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the difficulties I ſhall met with here below<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and I truſt will ere long bring me to the e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>joyment of himſelf, where I ſhall be paſt ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ning and ſorrowing. And as a further teſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mony of my intereſt in Chriſt, by the effects <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Faith, I have theſe Evidences.</p>
+            <p>Firſt, My love to God, which is greater th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to any thing in the world beſides, and my G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath left it upon record, that he loves them th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love him, Prov. 8.17. I know my love is n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo great as it ſhould be; but I am ſure n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt grief is, that I can love him no bette<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in this caſe God will accept the will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the deed.</p>
+            <p>Secondly, I know my love is ſincere by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe I love the Children of God, for as is, 1 Iohn 5.1. Every one that loveth hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that begot, loveth him alſo that is begotten <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him: and by this I know that I love th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> children of God, becauſe I love God; ſo tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is another evidence that I am paſſed fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="17" facs="tcp:179242:9"/> death to life, even becauſe I love the brethren, 1 Iohn 3.14.</p>
+            <p>Thirdly, I can appeal to the Lord, who is the ſearcher of hearts, that the breathings of my ſoul are chiefly after holineſs, that I might be more like unto the Lord Ieſus, my deſire is to ſerve God in all things, and to have a real and hearty reſpect unto all Gods commandments, &amp; I deſire if it were poſſible, that I might never ſin more, but rather that I might behave my ſelf in all holy converſation, as one that hath indeed and in truth experienced how good and gracious the Lord is: I bleſs God I can truly ſay, that my hotteſt conflicts are againſt thoſe ſins which are obvious only to the eye of God, even my ſinful thoughts, though they come not into action; O many a ſad heart have I had when I have conſidered the vileneſs of my thoughts, and yet have been unblameable in my converſation, and this is ſtill my daily ſor<g ref="char:EOLhyphen"/>row, and therefore I truſt they ſhall never be my ruine, but that the Lord will ſhortly re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyce the heart of his poor ſervant, in giving me the victory over theſe and all my other in<g ref="char:EOLhyphen"/>bred corruptions, which have ſo often made a ſeparation between my dear Lord and my poor ſoul.</p>
+            <p>Fourthly, I find a great change in any heart as touching the Word of God, for where heretofore like a wretch as I was, I eſteemed a playbook before it, now, bleſſed the Lord, I prize it before all other, and good reaſon have
+<pb n="18" facs="tcp:179242:10"/> I for it, for by it hath the Lord quickned m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and therefore as long as I live I will give u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my ſelf to walk according to the rule of it, begin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſpirit of God to open the myſtery of it to m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſo I might not only have the Letter, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the very mind of Chriſt.</p>
+            <p>Fifthly, I ſee nothing in my ſelf that mak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me more worthy of ſalvation than another, know that I have deſerved to lye in flames, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well as any that are now in the place of tormen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and that nothing but mercy hath ſtept betwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my ſoul and everlaſting burnings, and ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore I heartily wiſh, that I might always admiring of this free grace of God in chuſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me before the foundation of the world was la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo unworthy a creature as I am, to ſet his l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon me, and let go ſo many thouſands, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were more capable to bring Glory to his na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> am: O the height, and depth, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breadth, and length of this love of God in Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ieſus, which hath abounded to me a poor a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unworthy creature <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is indeed ſuch a love paſſeth knowledge, and therefore I can no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufficiently admire it, whilſt I am here in body, which makes me long to be diſſolv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſo I might know it more clearly, and ſwallowed up in the eternal admiration of Amen.</p>
+            <div type="principles">
+               <head>And theſe are my principles which I tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I ſhall hold faſt even to my death.</head>
+               <p n="1">
+                  <pb n="19" facs="tcp:179242:10"/>1. I believe that the Scriptures contained in the Old and New Teſtament are the word of God written by the Prophets and holy men, as they were inſpired by God, to be y<hi rend="sup">e</hi> rule of Faith and life to his people: I believe all that God in his word wills me to believe, being perſwad<g ref="char:EOLhyphen"/>ed by the ſpirit of God concerning the truth of it; I believe that there is one only eternal God, who hath his Being from himſelf, and hath given a Being to all his Creatures, both in heaven and earth, and under the earth, and from eternity to eternity doth whatſoever he will: I believe that this eternal God-head is diſtinguiſhed into three Perſons, the Father begetting, the Son begotten, and the holy Ghoſt proceeding from them both, I believe that God created man in his own image, in righteouſneſs, and holineſs giving him dominion over all the Creatures, and likewiſe gave him liberty to continue in this happy condition if he would, but he having liberty to ſtand or to fall in his own hands, quickly loſt that happineſs which God had inſtated him in, by yeilding to the inticements of Satan, ſo that breaking the commands of God he brought a curſe upon himſelf, and all his poſterity, ſo that all man<g ref="char:EOLhyphen"/>kind by nature are now in a miſerable conditi<g ref="char:EOLhyphen"/>on, children of wrath, heirs of Hell, &amp;c. And I do believe, that God from all eternity knew what man would do when he had created him, ſo that Adam's fall did but uſher in, as it were, a greater bleſſedneſs: for I do believe there
+<pb n="20" facs="tcp:179242:11"/> hath been an eternal Covenant between the Father and the Son, in the electing ſome to life even before the foundation of the earth was ſaid: ſo that no ſooner had man fallen, but God promiſed a Saviour, even the Lord Ieſus Chriſt who in his divine nature is in all things equal with God the Father, and that ſuch was his exceeding love and pity to poor loſt creatures that had broken his commands, and ſaid them<g ref="char:EOLhyphen"/>ſelves liable to the Curſe, that rather then they ſhould periſh, he hath laid aſide the Robes of his glory, and took upon him the nature of man, but without ſin; and that he was conceived by the holy Ghoſt, born of a Virgin, and while he was on earth was loaded with reproaches and ſcorns, and did at laſt ſuffer upon the croſs for the ſins of his Elect, where he bore the weight of Gods wrath in his Soul, by his heavineſs in his Agony, and ſatisfied the Iuſtice of God in his body, which was crucified till he dyed; and I believe that he was buried, and that the third day he roſe again from the dead, having con<g ref="char:EOLhyphen"/>quered ſin, death, and hell, for believers, and that he was ſeen of his Diſciples, and others, forty dayes after his Reſurrection, and in their ſight did aſcend into Heaven, with the ſame Body which was Crucified upon the Croſs, where he is ſet down at the right Hand of the Majeſty on High, and is become a glorious Mediator between GOD and Man, being anointed of God to be an eternal King, Prieſt, and Prophet to the Saints, whoſe peace he
+<pb n="21" facs="tcp:179242:11"/> hath purchaſed by the Blood of his Croſs: and I believe that at the laſt and great Day, the Lord Ieſus, when all his Elect are gathered in, will rend the Heavens and come down to judge the World in Righteouſneſs, when all Nations ſhall be gathered before him, even they that ſleep in the duſt of the earth ſhall awake, ſome to everlaſting Life, and ſome to ſhame and everlaſting contempt: and I believe that thoſe which are alive at the coming of the Lord, ſhall be caught up into the Clouds together with thoſe that were aſleep in Ieſus, to meet the Lord in the Air, where they ſhal ſit with Chriſt upon Thrones to judge all the Hypocrites, and unbelievers, to eternal damnation both of ſoul and body in Hell, where the worm dyeth not, and the fire never ſhall be out; and the wicked being gone into everlaſting puniſhment, I be<g ref="char:EOLhyphen"/>lieve that the Righteous ſhall enter into Life eternal, where they ſhall for ever be ſinging of Praiſes, and Hallelujahs to Him who loved them, and waſhed them from their ſins in his own Blood.</p>
+               <p>Theſe are my principles, and I truſt the Lord will ſo fix me in them, that I may never be toſſed too and fro with any contrary winds of Doctrine, as too many in theſe latter days are; nay I am even at this time perſwaded by the Lord, that I ſhal not be l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d away by the errors of the wicked, becauſe the Lord hath not only rightly informed my judgment concerning theſe things, but hath alſo given me good Hope,
+<pb n="22" facs="tcp:179242:12"/> through grace, that he is my Father, the Lord Ieſus having dyed for my ſins, and riſen again for my juſtification; and this is that which brings comfort to my ſoul, and makes me to rejoyce, though not ſeeing, yet believing, even with joy unſpeakable and full of glory; ſo I doubt not but the Lord Ieſus my dear Redeem<g ref="char:EOLhyphen"/>er, will ſo ſupport me by his grace, that whatſo<g ref="char:EOLhyphen"/>ever my condition hath been or ſhall be here in this little moment of time, yet that I ſhall not fail of ſalvation through Chriſt in heaven for ever, for in him only is my hope, and I will make mention of his righteouſneſs; and of his only, who is the Lord my righteouſneſs; and therefore to him be all the glory given now and for evermore, Amen.</p>
+               <p>This confeſſion of my Faith and my Experi<g ref="char:EOLhyphen"/>ences was written in a time of ſweet peace: my reaſons why I writ them were theſe 1. Becauſe formerly when I had enjoyed the ſweet pre<g ref="char:EOLhyphen"/>ſence of God, and been for the time filled with rejoicing, yet when God had withdrawn the light of his countenance from me, I preſently fell to queſtioning all the dealings of God with me, and ſo diſhonoured God by my unbelief, ſo that now being under the ſenſe of love, and being deſirous for the time to come to glorifie God more in the great work of unbelieving, I write down my Experiences, hoping they may be ſweet ſupports to me in a time of darkneſs.</p>
+               <p n="2">2. My deſire to treaſure up the Experiences which I have had of Gods goodneſs to me, was
+<pb n="23" facs="tcp:179242:12"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>other reaſon why I write them, knowing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w apt I am to let ſlip out of my remem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ance that which is good.</p>
+               <p n="3">3. I have been often called upon to ſee that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y principles be right, and to make ſure my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idences for heaven; and therefore that I may <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtifie my obedience to God and his Word, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd that I might increaſe my joy in the Lord, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y believing more firmly what the Lord had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one for my ſoul, I ſet about the work of heart-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arching, to ſee what I could find in me that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rought me within the compaſs of everlaſting <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſſedneſs; and ſome things I found, bleſſed be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord, which I thought was worthy to be re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orded, which was hſs own work in me and for me, and therefore I write them down, and heartily deſire that God may have the Glory of his own grace: for I know that he only hath wrought all my works in me, for of my ſelf I am not able to think a good thought, ſpeak a good word or do a good action. And I truſt that the Lord will perfect that which concerns me, and not forſake the work of his own hands, that ſo I may be to the praiſe of the glory of his grace all the days of my life. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
